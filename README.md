@@ -43,6 +43,6 @@ Pick several of the Java format specifiers below and define variables of the cor
 ### Part 4 - Submission
 * Just as you did last week (Reference the Lab video in your Week 1 module), create a Spring2023 feature branch of your code
 * Commit your working code to your local copy
-* Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Sprint2023)
+* Push it to your Remote/origin branch (i.e. GitHub: Spring2023 -> origin/Spring2023)
 * Then issue a Pull request to my instructor branch
     * Make sure to save the Pull request URL and submit it for the lab.
