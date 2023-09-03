@@ -13,17 +13,17 @@ public class LikeAGirl {
         String scriptTemplateLine4 =
                 "How do you think it affects them when somebody uses \"%s\" as an insult? Choice (good: %d, bad: %d) ";
         String scriptTemplateLine5 = "You answered %d%n%s.";
-        String ansGood = "Always wants to change that.%nEmotional Damage %f";
-        String ansBad = "Good for you.%nEmotional Damage %f";
-        String likeAGirl = "Like a Girl";
+        String ansBad = "Always wants to change that.%nEmotional Damage %f";
+        String ansGood = "Good for you.%nEmotional Damage %f";
+        String likeAGirl = "Like a Boy";
 
         // integer variable
-        int good = 0;
-        int bad = 1;
+        int good = 1;
+        int bad = 2;
         // 32 bit floating point variable
         float emotionalDamage = 0.0f;  // 32 Bit, but it does exist!
         // double precision floating point variable
-        double dEmotionalDamage = 100.0; // Double precision
+        double dEmotionalDamage = 50.0; // Double precision
         // boolean variable
         boolean trueOrFalse;
         // Scanner variable for reading input.
